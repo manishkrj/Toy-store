@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Toy-store/static/css/main.b2b96560.css",
+    "main.js": "/Toy-store/static/js/main.10cc4fd7.js",
+    "static/js/453.cc5bcd09.chunk.js": "/Toy-store/static/js/453.cc5bcd09.chunk.js",
+    "index.html": "/Toy-store/index.html",
+    "main.b2b96560.css.map": "/Toy-store/static/css/main.b2b96560.css.map",
+    "main.10cc4fd7.js.map": "/Toy-store/static/js/main.10cc4fd7.js.map",
+    "453.cc5bcd09.chunk.js.map": "/Toy-store/static/js/453.cc5bcd09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2b96560.css",
+    "static/js/main.10cc4fd7.js"
+  ]
+}
